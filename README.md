@@ -1,0 +1,1 @@
+# IntakeIQ-AI-Powered-Healthcare-Workflow-Platform
