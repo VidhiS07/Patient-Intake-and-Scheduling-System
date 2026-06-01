@@ -20,8 +20,6 @@ The architecture is intentionally scoped to a vertical slice that demonstrates t
 
 - Patient registration with demographic capture and PHI-safe storage
 - Role-based access control — `patient`, `clinician`, and `admin` claims enforced at the gateway
-- All PHI access audit-logged with user identity, action, and timestamp
-- Encryption at rest (Azure SQL TDE) and in transit (TLS 1.2+) on all patient data
 
 **Appointment Scheduling**
 
