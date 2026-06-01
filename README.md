@@ -18,7 +18,7 @@ The architecture is intentionally scoped to a vertical slice that demonstrates t
 
 **Patient Management**
 
-- Patient registration with demographic capture and PHI-safe storage
+- Patient registration with demographic capture
 - Role-based access control — `patient`, `clinician`, and `admin` claims enforced at the gateway
 
 **Appointment Scheduling**
