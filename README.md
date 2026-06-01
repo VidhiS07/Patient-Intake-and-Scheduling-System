@@ -1,1 +1,1 @@
-# IntakeIQ-AI-Powered-Healthcare-Workflow-Platform
+# Patient Intake and Scheduling System
