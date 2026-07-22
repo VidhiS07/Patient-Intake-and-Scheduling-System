@@ -331,6 +331,8 @@ The AI assistant provides informational guidance and appointment assistance. It 
 
 Vidhi Sheth
 
+Senior Full-Stack Software Engineer | .NET, Python, Angular, React, SQL Server, Azure | Cloud-Native & AI-Enabled Enterprise Applications
+
 ## 
 
 This is a private repository. If you'd like a live demo or code walkthrough, feel free to reach out.
