@@ -330,7 +330,6 @@ The AI assistant provides informational guidance and appointment assistance. It 
 ## Author
 
 Vidhi Sheth
-Full Stack Engineer — .NET · Angular · Microservices · Azure · System Design
 
 ## 
 
